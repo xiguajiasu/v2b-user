@@ -8,7 +8,7 @@ window.settings = {
     color: 'green'
   },
   
-  background_url: 'https://zzz.xiguajiasu.store/bj.jpp',
+  background_url: 'https://zzz.xiguajiasu.store/bj.jpg',
   // crisp
  // crisp_id: '23a4c4a3-9cc7-4405-ad1f-d966eabb4c04',
   i18n: [
