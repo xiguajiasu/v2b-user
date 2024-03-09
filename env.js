@@ -1,7 +1,7 @@
 window.settings = {
   title: '西瓜加速',
   description: '快到没朋友',
-  host: 'https://cbp.xgjs.cc',
+  host: 'https://service-1ck1e60f-1324874184.sh.tencentapigw.com',
   theme: {
     sidebar: 'light',
     header: 'dark',
